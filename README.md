@@ -26,7 +26,7 @@ sudo yes | ./install-zeppelin.sh
 
 When the install-zeppelin.sh script completes, navigate to the URL shown in the terminal to use the latest Apache Zeppelin.
 
-The URL should be http://<local ip address of machine>:8080/
+The URL should be http://'local ip address of machine':8080/
 
 ## Apache Shiro Authentication & Authorization configuration
 

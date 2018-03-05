@@ -29,7 +29,7 @@ echo "
 
 #Install Java
 echo '=> 1/10 Installing Java'
-sudo apt-get install default-jdk
+sudo apt-get install default-jdk curl
 sudo apt-get update
 
 #Install Spark
