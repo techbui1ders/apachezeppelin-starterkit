@@ -10,7 +10,7 @@ echo "
 
     Installings the following
         Java
-        Apache Zeppelin 0.7.3
+        Apache Zeppelin 0.8.0
         Apache Spark 2.1.0 with Hadoop 2.7
         SparkR interpreter with handy R packages
             devtools
@@ -40,9 +40,9 @@ sudo mv spark-2.1.0-bin-hadoop2.7 $FOLDER_PATH/spark
 
 #Install Zeppelin
 echo '===> 3/10 Installing Apache Zeppelin'
-wget http://www-us.apache.org/dist/zeppelin/zeppelin-0.7.3/zeppelin-0.7.3-bin-all.tgz 
-tar -zxf zeppelin-0.7.3-bin-all.tgz
-sudo mv zeppelin-0.7.3-bin-all $FOLDER_PATH/zeppelin
+wget http://apache.cs.utah.edu/zeppelin/zeppelin-0.8.0/zeppelin-0.8.0-bin-all.tgz 
+tar -zxf zeppelin-0.8.0-bin-all.tgz
+sudo mv zeppelin-0.8.0-bin-all $FOLDER_PATH/zeppelin
 rm -rf *.tgz
 
 # Grant Permissions
