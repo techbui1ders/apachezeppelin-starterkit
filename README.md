@@ -1,6 +1,6 @@
 # Apache Zeppelin Starter-kit
 
-Terminal scripts for Ubuntu to accelerate the install and configuration of Apache Zeppelin in a single-node environment. The latest is 0.7.3
+Terminal scripts for Ubuntu to accelerate the install and configuration of Apache Zeppelin in a single-node environment. The latest is 0.8.0
 
 ## Table of Contents
 
